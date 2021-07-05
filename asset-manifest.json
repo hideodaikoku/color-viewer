@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/color-viewer/static/css/main.a5f9d210.chunk.css",
-    "main.js": "/color-viewer/static/js/main.c943d1b9.chunk.js",
-    "main.js.map": "/color-viewer/static/js/main.c943d1b9.chunk.js.map",
+    "main.css": "/color-viewer/static/css/main.f042fcc0.chunk.css",
+    "main.js": "/color-viewer/static/js/main.45f67c92.chunk.js",
+    "main.js.map": "/color-viewer/static/js/main.45f67c92.chunk.js.map",
     "runtime-main.js": "/color-viewer/static/js/runtime-main.65dcf3cd.js",
     "runtime-main.js.map": "/color-viewer/static/js/runtime-main.65dcf3cd.js.map",
     "static/js/2.2288149e.chunk.js": "/color-viewer/static/js/2.2288149e.chunk.js",
     "static/js/2.2288149e.chunk.js.map": "/color-viewer/static/js/2.2288149e.chunk.js.map",
     "index.html": "/color-viewer/index.html",
-    "static/css/main.a5f9d210.chunk.css.map": "/color-viewer/static/css/main.a5f9d210.chunk.css.map",
+    "static/css/main.f042fcc0.chunk.css.map": "/color-viewer/static/css/main.f042fcc0.chunk.css.map",
     "static/js/2.2288149e.chunk.js.LICENSE.txt": "/color-viewer/static/js/2.2288149e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65dcf3cd.js",
     "static/js/2.2288149e.chunk.js",
-    "static/css/main.a5f9d210.chunk.css",
-    "static/js/main.c943d1b9.chunk.js"
+    "static/css/main.f042fcc0.chunk.css",
+    "static/js/main.45f67c92.chunk.js"
   ]
 }
