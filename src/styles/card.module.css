@@ -5,6 +5,15 @@
     align-items: bottom;
 }
 
+.songlink{
+    font-size: 1.5rem;
+    color: black;
+}
+
+.songlink:visited{
+    color: black;
+}
+
 .image{
     margin: 1rem;
     width: 10rem;
