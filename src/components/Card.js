@@ -6,9 +6,9 @@ const Card = (props) => {
     return (
         <div className={cardStyles.container}>
             <h2 className={cardStyles.header}>
-                Place ID: {props.place.place_id}
+                Name: {props.place.name}
             </h2>
-
+            <small> Place ID: {props.place.place_id}</small>
             <div className={cardStyles.imageContainer}>
                 {
                     props.place.images.map((image, index) =>
@@ -44,7 +44,7 @@ const Card = (props) => {
                 rel="noopener noreferrer"
                 className={cardStyles.songlink}
             >
-                    {props.place.title}+" - "+{props.place.song_by}
+                    {props.place.title}{" - "}{props.place.song_by}
             </a>
             <div className={cardStyles.paletteContainer}>
                 {props.place.album_artwork_palette.map((color, index) =>
